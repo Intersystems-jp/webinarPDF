@@ -21,6 +21,7 @@
 ## 3) 2023年7月25日開催：バッチジョブ管理への応用から学ぶ～インターオペラビリティ機能のビジネスプロセスを理解する
 - [PDF](20230721-ApplicationOfBatchJobManagement.pdf)
 - [YouTube](https://www.youtube.com/watch?v=RUxeT4cTy4k&list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz&index=5)
+- [実装コード例](https://github.com/IRISMeister/jobmanagement)
 
 ## 4) 2023年9月26日開催：IRISデータベースの内部動作
 - [PDF](20230926-DBInternalPerformance.pdf)
