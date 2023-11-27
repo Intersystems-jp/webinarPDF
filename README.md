@@ -25,5 +25,9 @@
 
 ## 4) 2023年9月26日開催：IRISデータベースの内部動作
 - [PDF](20230926-DBInternalPerformance.pdf)
-- YouTube (後日公開)
+- [YouTube](https://youtu.be/VeSmItD_jHw?list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz)
+
+## 5) 2023年10月18日：クラウド上のIRIS - サイジングのベストプラクティスをご紹介
+- [PDF](20231018_IRIStoCloud_1.0.pdf)
+- [YouTube](https://youtu.be/8cnErGIOIDk?list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz)
 
