@@ -6,6 +6,8 @@
 
     - 2) [2月29日開催：Visual Studio Codeを使用したIRISプログラミング](#2-2月29日開催visual-studio-codeを使用したirisプログラミング)
 
+    - 3) [4月23日開催：IRIS 2024.1の管理用Webサーバ(PWS)廃止に備えて](#3-4月23日開催iris-20241の管理用webサーバpws廃止に備えて)
+
 - 2023年分
     - 1) [4月6日開催：Pythonでデータベースプログラミング](#1-4月6日開催pythonでデータベースプログラミング)
     - 2) [5月30日開催：ワークフローコンポーネントの使い方～自動処理にユーザからの指示を統合する方法～](#2-5月30日開催ワークフローコンポーネントの使い方自動処理にユーザからの指示を統合する方法)
@@ -23,11 +25,15 @@
 ## 2024年分
 ### 1) 1月25日開催：IRISのデータを可視化する4つの方法
  - [PDF](/20240125-Visualise-IRIS-data-in-4ways.pdf)
- - YouTube <2月末公開予定>
+ - [YouTube](https://www.youtube.com/watch?v=uvbn0qXJnS0&list=PLzSN_5VbNaxB_ExlTuYPM3rqyuNkZ1Csh)
 
 ### 2) 2月29日開催：Visual Studio Codeを使用したIRISプログラミング
  - [PDF](/20240229-IRISProgramingWithVSCode.pdf)
- - YouTube <3月末公開予定>
+ - [YouTube](https://youtu.be/9WdhxWPVQ_U?list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz)
+
+### 3) 4月23日開催：IRIS 2024.1の管理用Webサーバ(PWS)廃止に備えて
+ - [PDF](/20240423-NoPWS-Final.pdf)
+ - YouTube <5月末公開予定>
 
 ## 2023年分
 ### 1) 4月6日開催：Pythonでデータベースプログラミング
