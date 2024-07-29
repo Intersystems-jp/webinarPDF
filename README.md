@@ -39,7 +39,7 @@
 
 ### 4) 6月25日開催：FHIR新機能のご紹介～2024.1～
  - [PDF](/20240625-FHIR2024.1.pdf)
- - YouTube <7月末公開予定>
+ - [YouTube](https://www.youtube.com/watch?v=onO1oJwFpeQ&list=PLzSN_5VbNaxBu4kMgZrK5iGi-GIGNxvpu)
 
 
 ## 2023年分
