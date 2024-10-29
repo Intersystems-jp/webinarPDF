@@ -10,6 +10,10 @@
 
     - 4）[6月25日開催：FHIR新機能のご紹介～2024.1～](#4-6月25日開催fhir新機能のご紹介20241)
 
+    - 5）[7月30日開催：Embedded Pythonの新機能～2024.1～](#5-7月30日開催embedded-pythonの新機能20241)
+
+    - 6）[9月6日開催：InterSystems IRIS® サーバーとデータの守り方入門](#6-9月6日開催intersystems-iris-サーバーとデータの守り方入門)
+
 - 2023年分
     - 1）[4月6日開催：Pythonでデータベースプログラミング](#1-4月6日開催pythonでデータベースプログラミング)
     - 2） [5月30日開催：ワークフローコンポーネントの使い方～自動処理にユーザからの指示を統合する方法～](#2-5月30日開催ワークフローコンポーネントの使い方自動処理にユーザからの指示を統合する方法)
@@ -40,6 +44,13 @@
 ### 4) 6月25日開催：FHIR新機能のご紹介～2024.1～
  - [PDF](/20240625-FHIR2024.1.pdf)
  - [YouTube](https://www.youtube.com/watch?v=onO1oJwFpeQ&list=PLzSN_5VbNaxBu4kMgZrK5iGi-GIGNxvpu)
+
+### 5) 7月30日開催：Embedded Pythonの新機能～2024.1～
+ - [YouTube](https://youtu.be/WrttoeW34Rw?list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz)
+ - [サンプルコード](https://github.com/unoura/iris-flask-demo)
+
+### 6) 9月6日開催：InterSystems IRIS® サーバーとデータの守り方入門
+ - [YouTube](https://youtu.be/IDI6pG8uiZ0?list=PLzSN_5VbNaxCeC_ibw2l-xneMCwCVf-Or)
 
 
 ## 2023年分
