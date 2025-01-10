@@ -16,6 +16,8 @@
 
     - 7）[10月28日開催：Ansible を使ってIRIS 環境の構築を自動化しよう](#7-10月28日開催ansible-を使ってiris-環境の構築を自動化しよう)
 
+    - 8）[12月10日開催：IRISで実現する極小オーバヘッドの IoTエッジサーバー](#8-12月10日開催irisで実現する極小オーバヘッドの-iotエッジサーバー)
+
 - 2023年分
     - 1）[4月6日開催：Pythonでデータベースプログラミング](#1-4月6日開催pythonでデータベースプログラミング)
     - 2） [5月30日開催：ワークフローコンポーネントの使い方～自動処理にユーザからの指示を統合する方法～](#2-5月30日開催ワークフローコンポーネントの使い方自動処理にユーザからの指示を統合する方法)
@@ -59,6 +61,10 @@
  - [YouTube](https://youtu.be/86BpUT6JZs8?list=PLzSN_5VbNaxCeC_ibw2l-xneMCwCVf-Or)
  - [サンプルコード](https://github.com/Intersystems-jp/Install-IRIS-with-Ansible)
 
+### 8) 12月10日開催：IRISで実現する極小オーバヘッドの IoTエッジサーバー
+ - [YouTube](https://www.youtube.com/watch?v=znwdMzxmQLk&list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz
+ )
+ - [サンプルコード](https://github.com/IRISMeister/IRIS-MQTT-AVRO-PYTHON)
 
 ## 2023年分
 ### 1) 4月6日開催：Pythonでデータベースプログラミング
