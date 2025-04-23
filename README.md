@@ -1,10 +1,11 @@
-# インターシステムズ開発者向けウェビナー説明資料のPDF
+# インターシステムズ開発者向けウェビナー／ソリューションセミナー説明資料のPDF
 このリポジトリには、以下開催日程で使用した説明資料のPDFが含まれます。
 
 - 2025年分
 
     - 1）[3月19日開催：IRIS概要 システム構築編](#1-3月19日開催iris概要-システム構築編)
 
+    - 2）【ソリューションセミナー】[4月24日開催：InterSystems IRIS data platform 2025.1 EMリリース：新機能と改善点について](#2-4月24日開催intersystems-iris-data-platform-20251-emリリース新機能と改善点について)
 
 - 2024年分
     - 1） [1月25日開催：IRISのデータを可視化する4つの方法](#1-1月25日開催irisのデータを可視化する4つの方法)
@@ -41,6 +42,10 @@
 
 ### 1) 3月19日開催：IRIS概要 システム構築編
 - [PDF](/202503-IRIS-Overview-SysMgt.pdf)
+- [YouTube](https://youtu.be/ENesr28R17g?list=PLzSN_5VbNaxB39_H2QMMEG_EsNEFc0ASz)
+
+### 2) 4月24日開催：InterSystems IRIS data platform 2025.1 EMリリース：新機能と改善点について
+- [PDF](/202504-IRIS2025.1ReleaseWebinar.pdf)
 
 ## 2024年分
 ### 1) 1月25日開催：IRISのデータを可視化する4つの方法
